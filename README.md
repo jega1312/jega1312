@@ -9,19 +9,19 @@ Final-Year IT Student
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jegathiswaran-thiaghu/)
 [<img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jegathiaghu@gmail.com)
 
-### Front-End 💻
+## Front-End 💻
 <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
 
-### Frameworks 🧩
+## Frameworks 🧩
 <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" />
 
-### Library 📚
+## Library 📚
 <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" />
 
-### CMS 📝
+## CMS 📝
 <img height="50" width="50" src="https://img.icons8.com/color/48/wordpress.png" />
 
-### Tools & IDE 🛠️
+## Tools & IDE 🛠️
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/github.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/clickup.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 ![Jegathiswaran's GitHub Stats]()
