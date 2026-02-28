@@ -12,19 +12,19 @@ Aspiring Front-End Developer
 
 <br/>
 
-## Front-End 💻
+### Front-End 💻
 <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
 
-## Frameworks 🧩
+### Frameworks 🧩
 <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" />
 
-## Library 📚
+### Library 📚
 <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" />
 
-## CMS 📝
+### CMS 📝
 <img height="50" width="50" src="https://img.icons8.com/color/48/wordpress.png" />
 
-## Tools & IDE 🛠️
+### Tools & IDE 🛠️
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/clickup.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <br/><br/>
 
 [![Jegathiswaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jega1312&bg_color=000000&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
