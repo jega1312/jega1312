@@ -6,7 +6,7 @@ Final-Year IT Student
 - 👨‍💻 I’m currently learning ReactJS
 - 💼 Previously completed front-end internship at [<img src="https://digitalsymphony.it/logo/logo.png" height="24">](https://digitalsymphony.it/)
 - 🔗 Professional Profiles
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jegathiswaran-thiaghu/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/jegathiswaran-thiaghu/)
 [<img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jegathiaghu@gmail.com)
 
 ### Front-End 💻
