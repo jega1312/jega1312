@@ -1,4 +1,4 @@
-## Hi, I'm Jegathiswaran 👋
+# Hi, I'm Jegathiswaran 👋
 
 Final-Year IT Student <br/>
 Aspiring Front-End Developer
