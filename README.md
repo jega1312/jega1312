@@ -16,7 +16,7 @@ Aspiring Front-End Developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
 
 ### Frameworks 🧩
-<img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png" />
 
 ### Library 📚
 <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png" />
