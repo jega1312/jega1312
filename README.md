@@ -1,8 +1,8 @@
 # Hi, I'm Jegathiswaran 👋
 - 💻 Final-year IT student & Aspiring front-end developer
 - 💼 Previously completed a front-end developer internship at [<img src="https://digitalsymphony.it/logo/logo.png" height="24">](https://digitalsymphony.it/)
-- 👨‍💻 I am currently learning React ⚛
-- 🌐 View my [![Portfolio](https://img.shields.io/badge/Portfolio-jega1312.github.io-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://jega1312.github.io/portfolio/)
+- 👨‍💻 I am currently learning React ⚛ <br /><br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=code&logoColor=white)](https://jega1312.github.io/portfolio/)
 
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jegathiswaran-thiaghu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30776694) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Jegathiswaran-Thiagu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jegathiaghu@gmail.com) 
