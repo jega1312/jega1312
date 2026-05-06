@@ -1,7 +1,7 @@
 # Hi, I'm Jegathiswaran 👋
 - 💻 Final-year IT student & Aspiring front-end developer
 - 💼 Previously completed a front-end developer internship at [<img src="https://digitalsymphony.it/logo/logo.png" height="24">](https://digitalsymphony.it/)
-- 👨‍💻 I am currently learning React ⚛ <br /><br />
+- 👨‍💻 I am currently learning WordPress <br /><br />
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=code&logoColor=white)](https://jega1312.github.io/portfolio/)
 
 ## 🔗 Socials:
