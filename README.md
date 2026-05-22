@@ -1,5 +1,5 @@
 # Hi, I'm Jegathiswaran 👋
-- 💻 Final-year IT student & Aspiring front-end developer
+- 💻 Final-year IT student & aspiring front-end developer
 - 💼 Previously completed front-end developer internship at [<img src="https://digitalsymphony.it/logo/logo.png" height="24">](https://digitalsymphony.it/)
 - 👨‍💻 I am currently learning WordPress
 
