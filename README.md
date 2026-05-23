@@ -1,13 +1,45 @@
+![Profile Header Banner](images/github-header-banner.png)
+
 # Hi there, I'm Jegathiswaran 👋
-- 💻 Final-year IT student & front-end developer aspirant
-- 💼 Previously completed front-end developer internship at [<img src="https://digitalsymphony.it/logo/logo.png" height="24">](https://digitalsymphony.it/)
+- 💻 Final-year IT student & aspiring front-end developer
+- 💼 Completed front-end developer internship at [<img src="https://digitalsymphony.it/logo/logo.png" height="24">](https://digitalsymphony.it/)
 - 👨‍💻 I am currently learning WordPress
 
-## 🚀 Featured Projects:
+## 🚀 Featured Projects
+
+### ResumeIQ
+![Movie App Screenshot](https://your-image-link.com/image.png)
+
+Conceptual AI Resume Optimization Product SaaS Landing Page 📝🧠
+
+🔗 Live Demo: https://resumeiq-jega1312.vercel.app/ <br/>
+📂 GitHub Repo: https://github.com/jega1312/resumeiq
+
+**Tech Used:** React · Vite · Tailwind CSS
+
+---
+
+### Verbalify
+Conceptual AI Language Learning Product SaaS Multi-Page Microsite 🌐🗣
+
+🔗 Live Demo: https://verbalify-jega1312.vercel.app/ <br/>
+📂 GitHub Repo: https://github.com/jega1312/verbalify
+
+**Tech Used:**  React · Vite · Tailwind CSS
+
+---
+
+### Spice Haven
+Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
+
+🔗 Live Demo: https://spicehaven.infinityfreeapp.com/ <br/> 
+📂 GitHub Repo: https://github.com/jega1312/spicehaven
+
+**Tech Used:** WordPress · Elementor · WPCode
 
 
-## 🔗 Socials:
-[![Visit Portfolio Website](https://img.shields.io/badge/Portfolio-5B2EFF?&logo=google-chrome&logoColor=white)](https://jega1312.github.io/portfolio/) [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jegathiswaran-thiaghu) [![Email Address](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jegathiaghu@gmail.com)
+## 🔗 Connect With Me:
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-5B2EFF?&logo=google-chrome&logoColor=white)](https://jega1312.github.io/portfolio/) [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jegathiswaran-thiaghu) [![Email Address](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jegathiaghu@gmail.com)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
