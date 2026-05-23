@@ -8,7 +8,7 @@
 ## 🚀 Featured Projects
 
 ### ResumeIQ
-![Movie App Screenshot](https://your-image-link.com/image.png)
+![ResumeIQ](images/)
 
 Conceptual AI Resume Optimization Product SaaS Landing Page 📝🧠
 
