@@ -7,9 +7,8 @@
 
 ## 🚀 Featured Projects
 
+![ResumeIQ](images/resumeiq.png)
 ### ResumeIQ
-![ResumeIQ](images/)
-
 Conceptual AI Resume Optimization Product SaaS Landing Page 📝🧠
 
 🔗 Live Demo: https://resumeiq-jega1312.vercel.app/ <br/>
@@ -19,6 +18,7 @@ Conceptual AI Resume Optimization Product SaaS Landing Page 📝🧠
 
 ---
 
+![Verbalify](images/verbalify.png)
 ### Verbalify
 Conceptual AI Language Learning Product SaaS Multi-Page Microsite 🌐🗣
 
@@ -29,6 +29,7 @@ Conceptual AI Language Learning Product SaaS Multi-Page Microsite 🌐🗣
 
 ---
 
+![Spice Haven](images/spicehaven.png)
 ### Spice Haven
 Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
