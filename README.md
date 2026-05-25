@@ -60,7 +60,7 @@ Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Reach Me
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-5B2EFF?&logo=google-chrome&logoColor=white)](https://jega1312.github.io/portfolio/) [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jegathiswaran-thiaghu) [![Email Address](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jegathiaghu@gmail.com)
 
 <br/>
