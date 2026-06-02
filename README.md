@@ -45,7 +45,7 @@ Conceptual AI Language Learning SaaS Product Multi-Page Microsite 🌐🗣
 🔗 Live Demo: https://verbalify-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/verbalify
 
-**Tech Used:**  React · Vite · Tailwind CSS
+**Tech Used:**  React · React Router · Vite · Tailwind CSS
 
 <br/>
 
