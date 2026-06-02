@@ -29,7 +29,7 @@
 
 ![ResumeIQ](images/resumeiq.png)
 ### ResumeIQ
-Conceptual AI Resume Optimization Product SaaS Landing Page 📝🧠
+Conceptual AI Resume Optimization SaaS Product Landing Page 📝🧠
 
 🔗 Live Demo: https://resumeiq-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/resumeiq
@@ -40,7 +40,7 @@ Conceptual AI Resume Optimization Product SaaS Landing Page 📝🧠
 
 ![Verbalify](images/verbalify.png)
 ### Verbalify
-Conceptual AI Language Learning Product SaaS Multi-Page Microsite 🌐🗣
+Conceptual AI Language Learning SaaS Product Multi-Page Microsite 🌐🗣
 
 🔗 Live Demo: https://verbalify-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/verbalify
