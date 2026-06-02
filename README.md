@@ -1,11 +1,13 @@
 ![Profile Header Banner](images/github-header-banner.png)
 
+<br/>
+
 <p align="center">
   <b>Hi there, I'm Jegathiswaran 👋</b>
 </p>
 
 <p align="center">
-  💻 Final-year IT student & aspiring front-end developer
+  💻 Front-End Developer & Bachelor of Information Technology student (coursework completed, awaiting certification)
 </p>
 
 <p align="center">
