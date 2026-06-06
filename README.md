@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  💻 Front-End Developer & Bachelor of Information Technology student (coursework completed, awaiting certification)
+  💻 Front-End Developer & Bachelor of Information Technology student (coursework completed, certification pending)
 </p>
 
 <p align="center">
