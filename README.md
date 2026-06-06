@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  👨‍💻 Currently learning WordPress
+  👨‍💻 Currently learning React
 </p>
 
 <br/>
