@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  👨‍💻 Currently learning React
+  👨‍💻 Currently learning React.js
 </p>
 
 <br/>
