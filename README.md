@@ -1,4 +1,4 @@
-![Profile Header Banner](images/header-banner.png)
+![Profile Header Banner](images/banner.png)
 
 <br/>
 
