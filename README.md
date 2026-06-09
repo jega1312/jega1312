@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  💻 Front-End Developer & Bachelor of Information Technology student (coursework completed, certification pending)
+  💻 Frontend Developer & Bachelor of Information Technology student (coursework completed, certification pending)
 </p>
 
 <p align="center">
-  💼 Completed front-end developer internship at  
+  💼 Completed Frontend Developer Internship at  
   <a href="https://digitalsymphony.it/">
     <img src="https://digitalsymphony.it/logo/logo.png" height="24" />
   </a>
