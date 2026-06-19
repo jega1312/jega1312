@@ -61,6 +61,28 @@ Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
 <br/>
 
+![GlucoPredictor](images/glucopredictor.png)
+### GlucoPredictor (Final-Year Project)
+Diabetes Risk Assessment System with Rule/AI-Based Health Tips Web Application 🩺📊
+
+🔗 Live Demo: **Hosted Locally** <br/> 
+📂 GitHub Repo: https://github.com/jega1312/glucopredictor
+
+**Tech Used:** HTML · CSS · JavaScript · Bootstrap · PHP · MySQL · phpMyAdmin · Python · Jupyter Notebook 
+
+<br/>
+
+![HeroVerse](images/heroverse.png)
+### HeroVerse
+Fan-Made Marvel & DC Universe Fan Information Hub Website 🦸‍♂️⚡
+
+🔗 Live Demo: https://heroverse-jega1312.vercel.app/ <br/> 
+📂 GitHub Repo: https://github.com/jega1312/heroverse
+
+**Tech Used:** HTML · Bootstrap · SASS/SCSS · JavaScript · Owl Carousel · Animate.css
+
+<br/>
+
 ---
 
 ## 🔗 Reach Me
