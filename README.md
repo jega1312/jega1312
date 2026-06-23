@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🎓 Bachelor of Information Technology student <br/> (Coursework and internship completed, certification pending)
+  🎓 Bachelor of Information Technology (Hons) student
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ![ResumeIQ](images/resumeiq-hero.png)
 ### ResumeIQ
-Conceptual AI Resume Optimization SaaS Marketing Landing Page 📝🧠
+Fictional AI Resume Optimization SaaS Marketing Landing Page 📝🧠
 
 🔗 Live Demo: https://resumeiq-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/resumeiq
@@ -41,7 +41,7 @@ Conceptual AI Resume Optimization SaaS Marketing Landing Page 📝🧠
 
 ![Verbalify](images/verbalify.png)
 ### Verbalify
-Conceptual AI Language Learning SaaS Marketing Multi-Page Microsite 🌐🗣
+Fictional AI Language Learning Platform Marketing Multi-Page Website 🌐🗣
 
 🔗 Live Demo: https://verbalify-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/verbalify
@@ -52,7 +52,7 @@ Conceptual AI Language Learning SaaS Marketing Multi-Page Microsite 🌐🗣
 
 ![Spice Haven](images/spicehaven.png)
 ### Spice Haven
-Conceptual Luxury Fine Dining Restaurant WordPress Website ⭐🍽
+Fictional Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
 🔗 Live Demo: https://spicehaven.infinityfreeapp.com/ <br/> 
 📂 GitHub Repo: https://github.com/jega1312/spicehaven
