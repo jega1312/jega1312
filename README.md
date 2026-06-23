@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 
-![ResumeIQ](images/resumeiq.png)
+![ResumeIQ](images/resumeiq-hero.png)
 ### ResumeIQ
 Conceptual AI Resume Optimization SaaS Marketing Landing Page 📝🧠
 
