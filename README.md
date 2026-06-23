@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🎓 Bachelor of Information Technology student (Coursework and internship completed, certification pending)
+  🎓 Bachelor of Information Technology student <br/> (Coursework and internship completed, certification pending)
 </p>
 
 <p align="center">
