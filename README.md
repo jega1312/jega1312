@@ -63,7 +63,8 @@ Fictional Luxury Fine Dining Restaurant WordPress Website ⭐🍽
 
 ![GlucoPredictor](images/glucopredictor.png)
 ### GlucoPredictor (Final-Year Project)
-Diabetes Risk Assessment System with Rule/AI-Based Health Tips Web Application 🩺📊
+Diabetes Risk Assessment System with Rule/AI-Based Health Tips Web Application 🩺📊 <br/><br/>
+🏆 **Received Excellent Final-Year Project Award by City University Malaysia in April 2025**
 
 🔗 Live Demo: **Hosted Locally** <br/> 
 📂 GitHub Repo: https://github.com/jega1312/glucopredictor
