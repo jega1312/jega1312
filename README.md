@@ -30,7 +30,7 @@
 
 ![ResumeIQ](images/resumeiq-hero.png)
 ### ResumeIQ
-Fictional AI Resume Optimization SaaS Marketing Landing Page 📝🧠
+Fictional Resume Optimization SaaS Marketing Landing Page 📝🧠
 
 🔗 Live Demo: https://resumeiq-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/resumeiq
@@ -41,7 +41,7 @@ Fictional AI Resume Optimization SaaS Marketing Landing Page 📝🧠
 
 ![Verbalify](images/verbalify.png)
 ### Verbalify
-Fictional AI Language Learning Platform Marketing Multi-Page Website 🌐🗣
+Fictional Language Learning Platform SaaS Marketing Multi-Page Website 🌐🗣
 
 🔗 Live Demo: https://verbalify-jega1312.vercel.app/ <br/>
 📂 GitHub Repo: https://github.com/jega1312/verbalify
