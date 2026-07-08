@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  💼 Completed Frontend Developer Internship at <img src="https://digitalsymphony.it/logo/logo.png" height="24" />
+  💼 Completed Front End Developer Internship at <img src="https://digitalsymphony.it/logo/logo.png" height="24" />
 </p>
 
 <p align="center">
