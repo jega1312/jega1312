@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🎓 Bachelor of Information Technology (Hons) student
+  🎓 Studied Bachelor of Information Technology (Hons) at City University Malaysia
 </p>
 
 <p align="center">
