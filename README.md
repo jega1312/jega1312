@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  💻 Frontend Developer
+  💻 Aspiring Frontend Developer
 </p>
 
 <p align="center">
